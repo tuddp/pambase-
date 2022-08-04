@@ -23,7 +23,7 @@ PAMbase is a prototype repository for passive acoustic monitoring data combining
  
  
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+Insert Example Screenshot
 
 
 ## Setup
