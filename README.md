@@ -14,16 +14,16 @@
    
   
   ## General Information
-PAMbase is a prototype repository for passive acoustic monitoring data combining different soundscape research interests, such as biodiversity, noise pollution, aquatic ecosystems etc. The objective is to create a database on which researchers from different fields can upload and download acoustic data.
+PAMbase is a prototype repository for passive acoustic monitoring data combining different soundscape research interests, such as biodiversity, noise pollution, aquatic ecosystems etc. The objective is to create a database which researchers from different fields can use to collect and exchange acoustic data.
   
  ## Technologies used
  Project is created with:
  * R shiny app - version 4.2.0
- * Link: insert Link
+ * Link: insert Link (_not public yet_
  
  
 ## Screenshots
-Insert Example Screenshot
+_exchange screenshot after publication_
 ![Example screenshot](./images/RShinyApp_test.png)
 
 ## Setup
@@ -34,7 +34,7 @@ Proceed to describe how to install / setup one's local environment / get started
 
 ## Usage
 How does one go about using it?
-Provide various use cases and code examples here.
+--> various use cases and code examples here.
 
 `write-your-code-here`
 
