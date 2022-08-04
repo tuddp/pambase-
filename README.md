@@ -24,7 +24,7 @@ PAMbase is a prototype repository for passive acoustic monitoring data combining
  
 ## Screenshots
 Insert Example Screenshot
-RShinyApp_test.png
+![Example screenshot](./images/RShinyApp_test.png)
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
