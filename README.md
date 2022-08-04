@@ -11,11 +11,7 @@
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
    
-   # # Table of contents
-  * [General info] (#About-Pambase)
-  * [Technologies] (#technologies)
-  * [Code] (#Code)
-  
+   
   
   ## General Information
 PAMbase is a prototype repository for passive acoustic monitoring data combining different soundscape research interests, such as biodiversity, noise pollution, aquatic ecosystems etc. The objective is to create a database on which researchers from different fields can upload and download acoustic data.
