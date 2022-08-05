@@ -19,7 +19,7 @@ PAMbase is a prototype repository for passive acoustic monitoring data combining
  ## Technologies used
  Project is created with:
  * RStudio Desktop: 2022.07.1+554
- * R shiny app - version 4.2.0
+ * R shiny app (version 4.2.0)
  * Link: insert Link (_not public yet_)
  
  
