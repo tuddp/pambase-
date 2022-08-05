@@ -18,6 +18,7 @@ PAMbase is a prototype repository for passive acoustic monitoring data combining
   
  ## Technologies used
  Project is created with:
+ * RStudio Desktop: 2022.07.1+554
  * R shiny app - version 4.2.0
  * Link: insert Link (_not public yet_)
  
@@ -27,10 +28,9 @@ _exchange screenshot after publication_
 ![Example screenshot](./images/RShinyApp_test.png)
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+Project requirements:
+RStudio Desktop (latest version recommended):
+https://www.rstudio.com/products/rstudio/download/
 
 ## Usage
 How does one go about using it?
