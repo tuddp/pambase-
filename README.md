@@ -29,7 +29,9 @@ _exchange screenshot after publication_
 
 ## Setup
 Project requirements:
-RStudio Desktop (latest version recommended):
+- R:
+https://techvidvan.com/tutorials/install-r/
+- RStudio Desktop (latest version recommended):
 https://www.rstudio.com/products/rstudio/download/
 
 ## Usage
