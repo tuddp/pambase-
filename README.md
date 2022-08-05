@@ -27,7 +27,7 @@ _exchange screenshot after publication_
 ![Example screenshot](./images/RShinyApp_test.png)
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+What are the project requirements/dependencies? Where are they listed?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
